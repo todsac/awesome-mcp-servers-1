@@ -87,6 +87,12 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * 🔄 - [Version Control](#version-control)
 * 🛠️ - [Other Tools and Integrations](#other-tools-and-integrations)
 
+### 🔗 <a name="aggregators"></a>Aggregators
+
+Servers for accessing many apps and tools through a single MCP server.
+- [@PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) ☁️ 🏠 - Connect with 2,500 APIs with 8,000+ prebuilt tools, and manage servers for your users, in your own app.
+- [Zapier MCP Server](https://zapier.com/mcp) ☁️ - Connect your AI Agents to 8,000 apps instantly.
+
 ### 📂 <a name="browser-automation"></a>Browser Automation
 
 Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
